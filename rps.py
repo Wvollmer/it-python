@@ -71,12 +71,10 @@ def main():
     else:
         print("It's a tie!")
 
-
-
 print("‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗‗")
 print(" ▏ Rock,Paper,Scissors ▕")
 print(" ▏ by william vollmer  ▕")
 print("▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔▔")
 
-print("hello i heard rock paper scissors is fun so let's play that first to 3 wins good luck =)")
+print("hello i heard rock paper scissors is fun so let's play good luck =)")
 main()
